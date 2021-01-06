@@ -25,10 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8faeb0c0-ad35-4ab9-8561-1e1895ee57da" name="Default Changelist" comment="added backend.tf">
-      <change afterPath="$PROJECT_DIR$/assets/Under-Construction.jpg" afterDir="false" />
+    <list default="true" id="8faeb0c0-ad35-4ab9-8561-1e1895ee57da" name="Default Changelist" comment="changed to windows format">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/main.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +41,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="v20200708" />
+        <entry key="$PROJECT_DIR$" value="v20200718" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,8 +63,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TF_FMT" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julian\Website\terraform-aws-s3-webapp\assets" />
+      <recent name="C:\Users\Julian\Website\terraform-aws-s3-webapp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -109,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1595065318179</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added picture &quot;Coming Soon!&quot;">
+      <created>1595067607497</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1595067607497</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changed to windows format">
+      <created>1609953740102</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609953740102</updated>
+    </task>
+    <task id="LOCAL-00008" summary="changed to windows format">
+      <created>1609954352889</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609954352889</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,13 +153,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="v20200708" />
+                        <option value="Windows" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -141,24 +186,8 @@
     <MESSAGE value="added jenkinsfile" />
     <MESSAGE value="corrected Jenkinsfile case" />
     <MESSAGE value="added backend.tf" />
-    <option name="LAST_COMMIT_MESSAGE" value="added backend.tf" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="702" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594214189534">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="702" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1594214189534" />
-    <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594380301364">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="640" y="276" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1594380301364" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1595065361265">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1595065361265" />
-    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595065330410">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="769" y="454" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1595065330410" />
+    <MESSAGE value="added picture &quot;Coming Soon!&quot;" />
+    <MESSAGE value="changed to windows format" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed to windows format" />
   </component>
 </project>
